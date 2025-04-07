@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @udirose
-- 👀 I’m interested in Computer Science, Software Development,and Game Development
-- 🌱 I’m currently learning godot and python
-- 💞️ I’m looking to collaborate on game development and web dev
-- 📫 Reach me at udirose@wustl.edu
+- 👀 I’m interested in Computer Science, Software Development, and Game Development
+- 🌱 I’m currently learning Godot
+- 📫 Reach me at udirose@pm.me
